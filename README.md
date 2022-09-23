@@ -1,0 +1,2 @@
+# myspringcloudconfigcenter
+自己弄着玩的配置中心
