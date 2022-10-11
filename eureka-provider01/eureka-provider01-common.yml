@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: eureka-provider01
+  profiles:
+    include: model
+
+eureka:
+  instance:
+    appname: myeurekaprovider
+    hostname: localhost
+    instance-id: myeurekaprovider001
+  client:
+    service-url:
+      defaultZone: http://eureka8853.com:8853/eureka/,http://eureka8854.com:8854/eureka/,http://eureka8854.com:8849/eureka/

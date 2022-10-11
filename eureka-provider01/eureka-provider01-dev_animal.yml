@@ -1,0 +1,10 @@
+cat:
+  age: 6
+  name: dev_nana
+  height: 30
+  color: white
+dog:
+  age: 6
+  name: dev_lala
+  height: 50
+  catagory: pastoral

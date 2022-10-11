@@ -1,0 +1,10 @@
+cat:
+  age: 20
+  name: nana_test
+  height: 300
+  color: white
+dog:
+  age: 30
+  name: lala_test
+  height: 500
+  catagory: pastoral
