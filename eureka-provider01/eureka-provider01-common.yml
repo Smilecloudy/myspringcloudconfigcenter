@@ -4,11 +4,11 @@ spring:
   profiles:
     include: model
 
-eureka:
-  instance:
-    appname: myeurekaprovider
-    hostname: localhost
-    instance-id: ${eureka.instance.appname}:${server.port}
-  client:
-    service-url:
-      defaultZone: http://eureka8853.com:8853/eureka/,http://eureka8854.com:8854/eureka/,http://eureka8854.com:8849/eureka/
+#eureka:
+#  instance:
+#    appname: myeurekaprovider
+#    hostname: localhost
+#    instance-id: ${eureka.instance.appname}:${server.port}
+#  client:
+#    service-url:
+#      defaultZone: http://eureka8853.com:8853/eureka/,http://eureka8854.com:8854/eureka/,http://eureka8854.com:8849/eureka/
