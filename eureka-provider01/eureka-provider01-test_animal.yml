@@ -1,10 +1,10 @@
 cat:
   age: 20
-  name: 猫猫_test
+  name: 猫猫1_test
   height: 300
   color: white
 dog:
   age: 30
-  name: 修狗_test
+  name: 修狗1_test
   height: 500
   catagory: pastoral
