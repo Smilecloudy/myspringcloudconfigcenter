@@ -1,0 +1,10 @@
+cat:
+  age: 20
+  name: 面膜_test
+  height: 300
+  color: white
+dog:
+  age: 30
+  name: 哈哈_test
+  height: 500
+  catagory: pastoral

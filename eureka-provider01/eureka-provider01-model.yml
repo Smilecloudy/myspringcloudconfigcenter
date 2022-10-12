@@ -1,0 +1,10 @@
+cat:
+  age: 2
+  name: nana
+  height: 30
+  color: white
+dog:
+  age: 3
+  name: lala
+  height: 50
+  catagory: pastoral
