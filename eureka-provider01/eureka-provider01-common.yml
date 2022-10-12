@@ -3,7 +3,7 @@ spring:
     name: eureka-provider01
   profiles:
     include: model
-
+githubpass: '{cipher}14317e34f312811d1286be0139c594ba4d0080a609137208b13de8e7841944bf'
 #eureka:
 #  instance:
 #    appname: myeurekaprovider
